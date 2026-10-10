@@ -17,12 +17,17 @@ My background is in **Linux, C/C++, networking, and DPDK**. I'm also exploring *
 
 | Project | What you'll find |
 | --- | --- |
-| [basic_learn](https://github.com/zhihaoevans/basic_learn) | Runnable examples across multiple programming languages, organized by topic with CI checks |
-| [dotfiles](https://github.com/zhihaoevans/dotfiles) | My development environment configurations |
-| [protocol_samples](https://github.com/zhihaoevans/protocol_samples) | Protocol-related samples and experiments |
-| [basic_cheatsheets](https://github.com/zhihaoevans/basic_cheatsheets) | Quick references for technical topics |
-| [learn_gmock](https://github.com/zhihaoevans/learn_gmock) | C++ dependency injection, Google Mock tests, CMake and coverage tooling |
-| [zhihaoevans.github.io](https://github.com/zhihaoevans/zhihaoevans.github.io) | Source code for my personal website |
+| [protocol_samples](https://github.com/zhihaoevans/protocol_samples) | Network protocol captures, sample generation, and validation tools |
+| [dotfiles](https://github.com/zhihaoevans/dotfiles) | My terminal, editor, and development environment configurations |
+| [basic_learn](https://github.com/zhihaoevans/basic_learn) | Runnable language examples, systems experiments, and debugging notes |
+| [Personal website](https://zhihaoevans.github.io/) | My projects and engineering notes · [Source](https://github.com/zhihaoevans/zhihaoevans.github.io) |
+
+### 📖 Learning resources
+
+- [basic_cheatsheets](https://github.com/zhihaoevans/basic_cheatsheets): network protocol numbers and port references.
+- [learn_gmock](https://github.com/zhihaoevans/learn_gmock): a focused C++ practice project with Google Mock, CMake, and coverage tooling.
+
+My repositories include both maintained resources and small learning experiments. The projects above are the best starting points.
 
 ### 🧰 Tools & technologies
 
@@ -35,10 +40,6 @@ My background is in **Linux, C/C++, networking, and DPDK**. I'm also exploring *
 - Building and shipping small, useful AI-powered products
 - Better workflows for AI-assisted software engineering
 - Sharing practical engineering knowledge through open source
-
-### 📚 Source-reading forks
-
-I also keep forks for studying upstream projects: [Linux](https://github.com/zhihaoevans/linux), [DPDK](https://github.com/zhihaoevans/dpdk), and [Linux 0.11 reading materials](https://github.com/zhihaoevans/flash-linux0.11-talk). These are upstream projects, separate from my own repositories.
 
 ### 🔗 Find me
 
