@@ -44,6 +44,7 @@ My repositories include both maintained resources and small learning experiments
 ### 🔗 Find me
 
 - 🌐 [Personal website](https://zhihaoevans.github.io/)
+- 🐦 [X / Twitter — @mikezaixian](https://x.com/mikezaixian): AI coding, indie development, and project updates
 - 💻 [GitHub projects](https://github.com/zhihaoevans?tab=repositories)
 
 ---
