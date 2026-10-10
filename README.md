@@ -21,6 +21,7 @@ My background is in **Linux, C/C++, networking, and DPDK**. I'm also exploring *
 | [dotfiles](https://github.com/zhihaoevans/dotfiles) | My development environment configurations |
 | [protocol_samples](https://github.com/zhihaoevans/protocol_samples) | Protocol-related samples and experiments |
 | [basic_cheatsheets](https://github.com/zhihaoevans/basic_cheatsheets) | Quick references for technical topics |
+| [learn_gmock](https://github.com/zhihaoevans/learn_gmock) | C++ dependency injection, Google Mock tests, CMake and coverage tooling |
 | [zhihaoevans.github.io](https://github.com/zhihaoevans/zhihaoevans.github.io) | Source code for my personal website |
 
 ### 🧰 Tools & technologies
@@ -34,6 +35,10 @@ My background is in **Linux, C/C++, networking, and DPDK**. I'm also exploring *
 - Building and shipping small, useful AI-powered products
 - Better workflows for AI-assisted software engineering
 - Sharing practical engineering knowledge through open source
+
+### 📚 Source-reading forks
+
+I also keep forks for studying upstream projects: [Linux](https://github.com/zhihaoevans/linux), [DPDK](https://github.com/zhihaoevans/dpdk), and [Linux 0.11 reading materials](https://github.com/zhihaoevans/flash-linux0.11-talk). These are upstream projects, separate from my own repositories.
 
 ### 🔗 Find me
 
